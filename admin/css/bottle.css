@@ -1,0 +1,98 @@
+.sec1{background-color: #191919;
+  background-image: url(../image/slider-bottle.png);
+  height: 650px;
+  background-repeat: no-repeat;}
+
+.ull li {display:inline-block ;}
+
+
+
+.vill{
+  padding: 24px 0px;
+  position: sticky;
+  top: 0px;
+}
+
+
+.an{
+  padding: 0px 40px;
+  text-decoration: none;
+  color: white;
+display: block;
+font-weight:600;
+}
+
+.ull{text-align: right;}
+
+.int{
+  color:rgb(146 126 92);
+}
+
+.intro{
+  color:rgb(146 126 92);
+  font-size: 22px;
+}
+
+.ref{
+  font-size: 35px;
+  font-style: italic;
+  font-family: cursive;
+  color: white;
+}
+
+.bot{
+  font-size: 75px;
+  color: white;
+  font-family: cursive;
+  font-style: italic;
+}
+
+
+.pos{
+  position: relative;
+  top: 130px;
+  text-align: end;
+}
+.imgg{width: 100%;}
+
+.gen{
+  
+  width: 500px;
+  position: relative;
+  top: 55px;
+
+}
+
+.sec3{
+  background-color:  #f1f1f1;
+}
+
+.nor{font-size: 41px;
+  font-style: normal;
+  font-family: math;
+  margin-bottom: 60px;
+}
+
+
+.gt{    width: 430px;
+  position: relative;
+  top: 80px;}
+
+.sec4{
+  padding: 6rem;
+}
+
+
+
+
+.wb{
+  background-color: white;
+  position: relative;
+  top: 200px;
+  padding: 60px 40px;
+  height: 450px;
+}
+
+.red{font-style: italic;
+  font-family: serif;
+  margin: 22px 0px;}
